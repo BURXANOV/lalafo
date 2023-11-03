@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "email": "123214@mail.ru",
+      "password": "$2a$10$5iQvErILP0oH4v3YM59X1OjwdQNMPfCz8c6VmAEirNO0efMdRzW5u",
+      "name": "dsfdf",
+      "id": 1
+    },
+    {
+      "email": "dsfdf@gmail.com",
+      "password": "$2a$10$jrSvy3Os/USRvDcbHRF29utHqGyr1wkcVrDBI6bh.qkIILqDoz6Xa",
+      "name": "asaas",
+      "id": 2
+    },
+    {
+      "email": "asaas@gmail.com",
+      "password": "$2a$10$QPnF1y7LpRTM9eZ0xzefven3DoVZNyABfrcNZk3QfTY.CK1FVjrwO",
+      "name": "dsdsdsd",
+      "id": 3
+    },
+    {
+      "email": "beko2109@gmail.com",
+      "password": "$2a$10$QKwvs9PEsKdBJXi4H9R/BeKAee6HmiR16LlCFe9klcfGipS6J61Re",
+      "name": "beko",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 4
+    },
+    {
+      "email": "beko2101229@gmail.com",
+      "password": "$2a$10$4sLRj4Qx.IVb5etdGpv7a.0fhHzV/9T60pnSeS3.xTBT3GuYpv0TG",
+      "name": "bekoew",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 5
+    },
+    {
+      "email": "beko21121209@gmail.com",
+      "password": "$2a$10$oVtDSqUD5bvMfnwgeEOFAelGMMIRHTfQQwA5zCYnmPNvRk.oGdS4e",
+      "name": "beko",
+      "balance": 1000,
+      "avatar": "",
+      "products": [],
+      "id": 6
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "price": 14499,
+
+      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
+      "title": "квартира",
+      "dexcr": "новый"
+    },
+    {
+      "id": 1,
+      "price": 14499,
+
+      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
+      "title": "квартира",
+      "dexcr": "новый"
+    },
+    {
+      "id": 1,
+      "price": 14499,
+
+      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
+      "title": "квартира",
+      "dexcr": "новый"
+    },
+    {
+      "id": 1,
+      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
+      "title": "квартира",
+      "price": 14499,
+      "dexcr": "новый"
+    }
+  ]
+}

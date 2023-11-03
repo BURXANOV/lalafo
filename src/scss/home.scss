@@ -1,0 +1,11 @@
+.home{
+    padding: 50px 0;
+    &__content{
+        display: flex;
+        column-gap: 20px;
+    }
+    
+    &__img{
+        width: 100%;
+    }
+}
