@@ -4,8 +4,24 @@
         display: flex;
         column-gap: 20px;
     }
+    &__cart{
+        border: 2px solid transparent;
+        border-radius: 10px;
+        border-image: linear-gradient(#0B0E7F , #0B95DD);
+-moz-border-image: -moz-linear-gradient(#0B0E7F , #0B95DD);
+-webkit-border-image: -webkit-linear-gradient(#0B0E7F , #0B95DD);
+border-image-slice: 1;
+       
+        padding: 10px;
+        &:hover{
+            transform: translateY(-10px);
+            transition: .1s;
+        }
+    }
+
     
     &__img{
         width: 100%;
+        height: 250px;
     }
 }

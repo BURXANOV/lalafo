@@ -21,7 +21,7 @@ const Header= ({user, setUser})=>{
             <div className="container">
                 <nav className="header__nav">
                     <div className="header__left">
-                        <h1 className="header__title"><Link to='/' >DADIL</Link></h1>
+                        <h1 className="header__title"><Link className="header__title-link" to='/' >DADIL</Link></h1>
                         <Link className="header__link" to='#'>Для бизнеса</Link>
                     </div>
                     <div className="header__right">

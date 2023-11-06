@@ -50,33 +50,31 @@
     {
       "id": 1,
       "price": 14499,
-
       "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
-      "title": "квартира",
-      "dexcr": "новый"
+      "title": "недвижимость ",
+      "descr": "новый"
     },
     {
-      "id": 1,
+      "id": 2,
       "price": 14499,
-
-      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
-      "title": "квартира",
-      "dexcr": "новый"
+      "image": "https://almode.ru/uploads/posts/2021-07/1626611486_7-almode_ru-p-yevroremont-odnokomnatnoi-kvartiri-8.jpg",
+      "title": "кравтира ",
+      "descr": "новый"
     },
     {
-      "id": 1,
+      "id": 3,
       "price": 14499,
 
-      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
-      "title": "квартира",
-      "dexcr": "новый"
+      "image": "https://www.momondo.com/himg/08/21/f5/leonardo-2684146-Exterior_O-202639.jpg",
+      "title": "отель",
+      "descr": "новый"
     },
     {
-      "id": 1,
-      "image": "https://static2.abitant.com/uploads/project_image/193/6020/b1eop4yu8e2gyh2tspm3.jpg",
-      "title": "квартира",
+      "id": 4,
+      "image": "https://almode.ru/uploads/posts/2021-06/1622796015_3-p-dom-v-stile-sovremennogo-shale-3.jpg",
+      "title": "хаус",
       "price": 14499,
-      "dexcr": "новый"
+      "descr": "новый"
     }
   ]
 }

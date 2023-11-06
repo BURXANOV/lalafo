@@ -1,4 +1,5 @@
-import axios from "axios";
+import { Link } from "react-router-dom";
+import axios from "../../axios";
 import React, { useEffect, useState } from "react";
 const Home =()=>{
     const [product, setProduct]= useState([])
@@ -15,10 +16,12 @@ const Home =()=>{
             {
                 product.map((item)=>(
                     <div className="home__cart">
-                        <img className="home__img" src={item.image} alt=""/>
-                        <h2>{item.title}</h2>
-                        <p>{item.price}</p>
-                        <span>{item.dexcr}</span>
+                        <Link style={{color:'black'}} to={`/product/${item.id}`}>
+                            <img className="home__img" src={item.image} alt=""/>
+                            <h2>{item.title}</h2>
+                            <p>{item.price}</p>
+                            <span>{item.descr}</span>
+                        </Link>
                     </div>
 
                 ))

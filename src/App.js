@@ -26,12 +26,12 @@ function App() {
       
       <Routes>
       
-        <Route path="./home" element={<Home/>}/>
+        <Route path="/home" element={<Home/>}/>
         <Route path="/myaccount" element={<MyAccount/>}/>
         <Route path="/businessaccount" element={<BuisinessAccount/>}/>
         <Route path="/anotheraccount" element={<AnotherAccount/>}/>
         <Route path="/addpost" element={<AddPost/>}/>
-        <Route path="/product" element={<Product/>}/>
+        <Route path="/product/:id" element={<Product/>}/>
       </Routes>
 
     
